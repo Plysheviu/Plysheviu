@@ -2,6 +2,7 @@
 
 # [Brick Game]
 
+* Simple brick game for practice in Unity;
 * Developed in Unity;
 * Used TileMap;
 * Classes , enum , dictionary used.
