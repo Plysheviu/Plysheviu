@@ -2,10 +2,9 @@
 
 # [Brick Game]
 
-* DMV Test Prep - it's cross-platform mobile application build in Flutter;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+* Developed in Unity;
+* Used TileMap;
+* Classes , enum , dictionary used.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/Tetris.png?token=GHSAT0AAAAAACWJ2EWLJR6AZ4YGWUMLXNHOZXRSJDQ" width="1200" title="Tetris">
