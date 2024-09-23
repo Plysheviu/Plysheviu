@@ -8,7 +8,7 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/Tetris.png?token=GHSAT0AAAAAACWJ2EWLJR6AZ4YGWUMLXNHOZXRSJDQ" width="930" title="Tetris">
+<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/Tetris.png?token=GHSAT0AAAAAACWJ2EWLJR6AZ4YGWUMLXNHOZXRSJDQ" width="1200" title="Tetris">
 
 </p>
 
