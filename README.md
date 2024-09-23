@@ -19,14 +19,16 @@
 * Interface made with WinForms C#
 * DataBase created with Sql Server
 * Created Sql queries , triggers , procedures etc.
+* Can add , delete , edit tables.
+* Have admin (full rights) and client (only read) rights
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/BdSad.png?token=GHSAT0AAAAAACWJ2EWKP55XODHNG6MBEQJOZXRS2XA" width="930" title="Botanical Garden">
 
 </p>
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+# [Calculator for repair shops]
+
 </p>
 
 * PUMB Online - A native iOS online banking app which helps people to manage their finance
