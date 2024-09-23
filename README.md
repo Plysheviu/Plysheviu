@@ -46,4 +46,4 @@
 
 - Email: jeka2017koval@gmail.com
 - LinkedIn: [Yevhen Koval](https://www.linkedin.com/in/yevhen-koval-25b3022a9/)
-- 
+  
