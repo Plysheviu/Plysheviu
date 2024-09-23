@@ -21,7 +21,7 @@
 * Created Sql queries , triggers , procedures etc.
 
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png](https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/BdSad.png?token=GHSAT0AAAAAACWJ2EWKP55XODHNG6MBEQJOZXRS2XA)" width="930" title="DroneMobile">
+<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/BdSad.png?token=GHSAT0AAAAAACWJ2EWKP55XODHNG6MBEQJOZXRS2XA" width="930" title="Botanical Garden">
 
 </p>
 
