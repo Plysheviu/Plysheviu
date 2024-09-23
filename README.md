@@ -8,18 +8,20 @@
 * Classes , enum , dictionary used.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/Tetris.png?token=GHSAT0AAAAAACWJ2EWLJR6AZ4YGWUMLXNHOZXRSJDQ" width="1200" title="Tetris">
+<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/Tetris.png?token=GHSAT0AAAAAACWJ2EWLJR6AZ4YGWUMLXNHOZXRSJDQ" width="930" title="Tetris">
 
 </p>
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
+# [Interface for database botanical garden]
+
 </p>
 
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
+* Interface made with WinForms C#
+* DataBase created with Sql Server
+* Created Sql queries , triggers , procedures etc.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
+<img src="[https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png](https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/BdSad.png?token=GHSAT0AAAAAACWJ2EWKP55XODHNG6MBEQJOZXRS2XA)" width="930" title="DroneMobile">
 
 </p>
 
