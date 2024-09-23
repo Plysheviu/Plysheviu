@@ -23,7 +23,7 @@
 * Have admin (full rights) and client (only read) rights
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Plysheviu/Img/refs/heads/main/BdSad.png?token=GHSAT0AAAAAACWJ2EWKP55XODHNG6MBEQJOZXRS2XA" width="930" title="Botanical Garden">
+<img src="https://github.com/Plysheviu/Img/blob/main/BdSad.png?raw=true" width="930" title="Botanical Garden">
 
 </p>
 
