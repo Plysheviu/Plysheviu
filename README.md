@@ -17,10 +17,11 @@
   * **Анімації:** Створення та налаштування плавних анімацій для головного героя, ворогів та інтерактивних об'єктів оточення.
   * **Рольова система:** Розроблено систему прогресії персонажа (набір досвіду, підвищення рівня / Level Up), а також реалізовано систему навичок (скілів) для використання під час ігрового процесу.
 <p align="center">
-  <img src="https://github.com/Plysheviu/Img/blob/main/StartGame.png?raw=true" width="300" title="Interface">
-  <img src="https://github.com/Plysheviu/Img/blob/main/TownGame.png?raw=true" width="300" title="Town">
-  <img src="https://github.com/Plysheviu/Img/blob/main/FightGame.png?raw=true" width="300" title="Fight">
-  <img src="https://github.com/Plysheviu/Img/blob/main/NightGame.png?raw=true" width="300" title="Night">
+  <img src="https://github.com/Plysheviu/Img/blob/main/StartGame.png?raw=true" width="450" title="Interface">
+  <img src="https://github.com/Plysheviu/Img/blob/main/TownGame.png?raw=true" width="450" title="Town">
+  <br>
+  <img src="https://github.com/Plysheviu/Img/blob/main/FightGame.png?raw=true" width="450" title="Fight">
+  <img src="https://github.com/Plysheviu/Img/blob/main/NightGame.png?raw=true" width="450" title="Night">
 </p>
 
 ---
@@ -33,10 +34,11 @@
   * Реалізовано механіки колекціонування, систему інвентарю користувача та внутрішньоігровий маркетплейс.
   * Налаштовано та успішно розгорнуто (деплой) у хмарній інфраструктурі Microsoft Azure.
 <p align="center">
-  <img src="https://github.com/Plysheviu/Img/blob/main/profile.monsters.png?raw=true" width="300" title="Monster Farm Profile">
-  <img src="https://github.com/Plysheviu/Img/blob/main/InfoMonster.png?raw=true" width="300" title="Monster Farm Info">
-  <img src="https://github.com/Plysheviu/Img/blob/main/Shop.png?raw=true" width="300" title="Monster Farm Shop">
-  <img src="https://github.com/Plysheviu/Img/blob/main/Collection.png?raw=true" width="300" title="Monster Farm Collection">
+  <img src="https://github.com/Plysheviu/Img/blob/main/profile.monsters.png?raw=true" width="450" title="Monster Farm Profile">
+  <img src="https://github.com/Plysheviu/Img/blob/main/InfoMonster.png?raw=true" width="450" title="Monster Farm Info">
+  <br>
+  <img src="https://github.com/Plysheviu/Img/blob/main/Shop.png?raw=true" width="450" title="Monster Farm Shop">
+  <img src="https://github.com/Plysheviu/Img/blob/main/Collection.png?raw=true" width="450" title="Monster Farm Collection">
 </p>
 
 ---
