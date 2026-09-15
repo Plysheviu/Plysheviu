@@ -1,6 +1,5 @@
 Я розробник, який спеціалізується на створенні ігор та програмного забезпечення. Маю досвід роботи з клієнтською (Unity, C#) та серверною (ASP.NET, MVC) частинами, а також проєктуванням баз даних та деплоєм проєктів у хмару.
 
-### Мої резюме:
 <a href="https://github.com/Plysheviu/Img/raw/main/Yevhen%20Koval%20CV.pdf" download><img src="https://img.shields.io/badge/CV-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
 
 ---
